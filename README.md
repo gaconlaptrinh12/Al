@@ -1,7 +1,8 @@
 
 
 Bài tập chương 1 .
-<img width="2172" height="1411" alt="Screenshot 2026-01-08 115306" src="https://github.com/user-attachments/assets/e80b9b49-3f6b-48e0-a650-66ce8e4db268" />
+<img width="2172" height="1411" alt="Screenshot 2026-01-08 115306" src="https://github.com/user-attachments/assets/775400f4-12d5-45be-9bdd-b8da76481fd1" />
+
 
 Bài tập chương 2 .
 
