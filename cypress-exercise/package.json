@@ -1,0 +1,21 @@
+{
+  "name": "cypress-exercise",
+  "version": "1.0.0",
+  "description": "Bai tap thuc hanh kiem thu tu dong End-to-End voi Cypress cho hoc phan Kiem thu phan mem",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "e2e",
+    "saucedemo"
+  ],
+  "author": "OpenAI",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
